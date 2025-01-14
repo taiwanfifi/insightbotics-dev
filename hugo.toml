@@ -6,7 +6,7 @@ theme = "hugo-saasify-theme"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 
 [module]
   [module.hugoVersion]
@@ -83,3 +83,11 @@ enableGitInfo = true
     name = "Blog"
     url = "/blog"
     weight = 3
+  [[menu.main]]
+    name = "Careers"
+    url = "/careers"
+    weight = 4
+  [[menu.main]]
+    name = "Company"
+    url = "/company"
+    weight = 5
