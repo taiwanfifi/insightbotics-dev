@@ -22,22 +22,22 @@ description: "Learn about our mission, leadership team, and the investors backin
         <h2 class="text-3xl font-bold text-center mb-12">Leadership Team</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Sarah Johnson"
-                title="Chief Executive Officer"
+                name="William"
+                title="PhD Student, NTUEE | Software Engineer"
                 image="/images/company/exec-1.svg"
-                linkedin="#"
+                linkedin="https://www.linkedin.com/in/taiwanfifi/"
             >}}
             {{< team-member 
-                name="Michael Chen"
-                title="Chief Technology Officer"
+                name="She Lin"
+                title="BSc, Computer Science, NCCU | Full-Stack Engineer"
                 image="/images/company/exec-2.svg"
                 linkedin="#"
             >}}
             {{< team-member 
-                name="Emily Rodriguez"
-                title="Chief Product Officer"
+                name="WEI AN"
+                title="MSc, Biomedical Engineering, NCKU | AI LLM Engineer"
                 image="/images/company/exec-3.svg"
-                linkedin="#"
+                linkedin="https://www.linkedin.com/in/weianhou/"
             >}}
         </div>
     </div>
@@ -81,10 +81,10 @@ description: "Learn about our mission, leadership team, and the investors backin
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            {{< stat number="2015" label="Founded" >}}
-            {{< stat number="200+" label="Team Members" >}}
-            {{< stat number="10k+" label="Customers" >}}
-            {{< stat number="50M+" label="Annual Revenue" >}}
+            {{< stat number="2023" label="Founded" >}}
+            {{< stat number="10+" label="Team Members" >}}
+            {{< stat number="-" label="Customers" >}}
+            {{< stat number="-" label="Annual Revenue" >}}
         </div>
     </div>
 {{< /section-container >}}

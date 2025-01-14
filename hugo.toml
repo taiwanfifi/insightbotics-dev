@@ -1,6 +1,6 @@
 baseURL = "https://www.insightbotics.com"
 languageCode = "en-us"
-title = "AI Insightbotics"
+title = "Insightbotics"
 theme = "hugo-saasify-theme"
 
 pygmentsCodeFences = true
@@ -61,7 +61,7 @@ enableGitInfo = false
       url = "/demo"
 
   [params.social]
-    linkedin = "https://linkedin.com/in/yourusername"
+    linkedin = "https://www.linkedin.com/company/insightbotics"
     twitter = "https://twitter.com/yourusername"
     github = "https://github.com/yourusername"
 
@@ -72,8 +72,9 @@ enableGitInfo = false
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Feature 1", url = "/features/feature-1/" },
-        { name = "Feature 2", url = "/features/feature-2/" }
+        { name = "Performance", url = "/features/performance/" },
+        { name = "Design System", url = "/features/design-system/" },
+        { name = "Developer Experience", url = "/features/developer-experience/" }
       ]
   [[menu.main]]
     name = "Pricing"

@@ -85,4 +85,4 @@ If you have questions about this Privacy Policy, please contact us at:
 * **Email:** privacy@saasify.com
 * **Address:** 123 Tech Street, San Francisco, CA 94105
 
-*Last Updated: January 2024*
+*Last Updated: January 2025*
