@@ -1,0 +1,85 @@
+baseURL = "https://www.insightbotics.com"
+languageCode = "en-us"
+title = "AI Insightbotics"
+theme = "hugo-saasify-theme"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+enableEmoji = true
+enableGitInfo = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.80.0"
+
+[build]
+  writeStats = true
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    lineNos = true
+    codeFences = true
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[params]
+  description = "Your site description"
+  author = "Your Name"
+  logo = "/images/logo.svg"
+  googleAnalytics = "G-XXXXXXXXXX"
+
+  [params.header]
+    background = "bg-white/80 backdrop-blur-sm"
+    border = "border-b border-gray-100"
+
+    [params.header.logo]
+      src = "/images/logo.svg"
+
+    [params.header.buttons]
+      [params.header.buttons.signIn]
+        text = "Sign in"
+        url = "/signin"
+      [params.header.buttons.getStarted]
+        text = "Get Started"
+        url = "/get-started"
+
+  [params.cta]
+    enable = true
+    title = "Ready to Get Started?"
+    description = "Join companies using our platform"
+    [params.cta.primary_button]
+      text = "Get Started Free"
+      url = "/get-started"
+    [params.cta.secondary_button]
+      text = "Book Demo"
+      url = "/demo"
+
+  [params.social]
+    linkedin = "https://linkedin.com/in/yourusername"
+    twitter = "https://twitter.com/yourusername"
+    github = "https://github.com/yourusername"
+
+[menu]
+  [[menu.main]]
+    name = "Features"
+    weight = 1
+    [menu.main.params]
+      has_submenu = true
+      submenu = [
+        { name = "Feature 1", url = "/features/feature-1/" },
+        { name = "Feature 2", url = "/features/feature-2/" }
+      ]
+  [[menu.main]]
+    name = "Pricing"
+    url = "/pricing"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 3
