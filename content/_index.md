@@ -5,6 +5,8 @@ client_logos:
     logo: "/images/logos/customer-1.png"
   - name: "Customer 2"
     logo: "/images/logos/customer-0.png"
+  - name: "Nvidia Inception Program"
+    logo: "/images/logos/nvidia-inception.png"
   - name: "Customer 3"
     logo: "/images/logos/customer-3.png"
   - name: "Customer 4"
@@ -35,9 +37,9 @@ testimonials:
 {{< hero 
     headline="AI-Driven Speech, Endless Business Possibilities"
     sub_headline="Speak your language, and let your audience hear it in theirs—perfect for expanding markets and building cross-border connections."
-    primary_button_text="Get Started Free"
-    primary_button_url="https://movie-learner.vercel.app/video-download"
-    secondary_button_text="View Demo"
+    primary_button_text="Start Translation"
+    primary_button_url="https://www.insightbotics.com/"
+    secondary_button_text="Start Learning"
     secondary_button_url="https://movie-learner.vercel.app/video-download"
     hero_image="/images/feature-2.svg"
     gradient-from="#dbeafe"
@@ -56,11 +58,11 @@ testimonials:
 {{< feature
     title="Lightning-Fast Translation Performance"
     description="Say it in your language, and let the world understand—our real-time speech translation enables seamless global communication."
-    badge="Language Translation"
+    badge="Real-Time Speech Translation"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/features/performance/"
+    buttonLink="/features/Real-Time-Speech-Translation/"
     features="Real-time & Bidirectional translation for conversations, Natural-sounding AI voice in languages, For global meetings & cross-border collaborations, Built for minimal latency"
     imagePosition="right"
 >}}
@@ -70,11 +72,11 @@ testimonials:
 {{< feature
     title="Audio to Actionable Insights"
     description="Turn hours of audio into minutes of insights—our summarization tool distills content for fast, effective decision-making."
-    badge="LLM-Driven Reports"
+    badge="AI-Powered Learning"
     badgeColor="#7c3aed"
     image="/images/hero-dashboard.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
+    buttonLink="/features/Fast-Learning/"
     features="High-accuracy transcription, Summarize long meetings and lectures,Customizable extraction, Boosts productivity"
     imagePosition="left"
 >}}
@@ -82,11 +84,11 @@ testimonials:
 {{< feature
     title="AI Insights for Strategic Excellence"
     description="Transform complex data into actionable intelligence with AI-driven market analysis tools."
-    badge="LLM Analysis Gen"
+    badge="LLM Analytics"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
+    buttonLink="/features/AI-Business-Analytics/"
     features="Analyzes market trends using LLMs,Tracks policy impacts and industry dynamics in real time,Provides decision-ready insights for executives,Highlights emerging innovations and competitive movements"
     imagePosition="right"
 >}}

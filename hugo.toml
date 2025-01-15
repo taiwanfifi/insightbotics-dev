@@ -64,6 +64,7 @@ enableGitInfo = false
     linkedin = "https://www.linkedin.com/company/insightbotics"
     twitter = "https://x.com/insightbotics"
     github = "https://github.com/insightbotics"
+    hr = "https://www.104.com.tw/company/1a2x6bms5y?jobsource=google"
 
 [menu]
   [[menu.main]]
