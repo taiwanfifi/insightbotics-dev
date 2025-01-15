@@ -62,7 +62,7 @@ testimonials:
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/features/Real-Time-Speech-Translation/"
+    buttonLink="/features/real-time-speech-translation/"
     features="Real-time & Bidirectional translation for conversations, Natural-sounding AI voice in languages, For global meetings & cross-border collaborations, Built for minimal latency"
     imagePosition="right"
 >}}
@@ -76,7 +76,7 @@ testimonials:
     badgeColor="#7c3aed"
     image="/images/hero-dashboard.svg"
     buttonText="Learn More"
-    buttonLink="/features/Fast-Learning/"
+    buttonLink="/features/fast-learning/"
     features="High-accuracy transcription, Summarize long meetings and lectures,Customizable extraction, Boosts productivity"
     imagePosition="left"
 >}}
@@ -88,7 +88,7 @@ testimonials:
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/AI-Business-Analytics/"
+    buttonLink="/features/ai-business-analytics/"
     features="Analyzes market trends using LLMs,Tracks policy impacts and industry dynamics in real time,Provides decision-ready insights for executives,Highlights emerging innovations and competitive movements"
     imagePosition="right"
 >}}

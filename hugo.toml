@@ -74,10 +74,10 @@ enableGitInfo = false
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "SpeakSync｜Instant Translation", url = "/features/Real-Time-Speech-Translation/" },
-        { name = "StudySync｜Fast Learning", url = "/features/Fast-Learning/" },
-        { name = "DataSync｜AI Business Analytics", url = "/features/AI-Business-Analytics/" },
-        { name = "HeartSync｜Wearable FetalECG", url = "/features/Wearable-FetalECG/" }
+        { name = "SpeakSync｜Instant Translation", url = "/features/real-time-speech-translation/" },
+        { name = "StudySync｜Fast Learning", url = "/features/fast-learning/" },
+        { name = "DataSync｜AI Business Analytics", url = "/features/ai-business-analytics/" },
+        { name = "HeartSync｜Wearable FetalECG", url = "/features/wearable-fetalecg/" }
       ]
   [[menu.main]]
     name = "Pricing"
