@@ -37,7 +37,11 @@
 &lt;li>&lt;strong>Postpartum Monitoring&lt;/strong>: After delivery, HeartSync continues to monitor the health of the mother, providing insight into her recovery process and ensuring that no health issues go unnoticed.&lt;/li>
 &lt;/ul>
 &lt;h3 id="customer-success-story">Customer Success Story&lt;/h3>
-&lt;p>A major maternal healthcare provider adopted &lt;strong>HeartSync&lt;/strong> to enhance their remote care model. By leveraging the wearable ECG technology, they were able to reduce the frequency of in-hospital visits for expectant mothers by 30%. The real-time monitoring allowed for faster identification of fetal heart irregularities, leading to a 20% decrease in emergency complications. Healthcare professionals reported that the integration of real-time monitoring significantly improved patient satisfaction and the overall quality of care.&lt;/p></description></item><item><title>SpeakSync｜Real-Time Speech Translation</title><link>https://www.insightbotics.com/features/real-time-speech-translation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/features/real-time-speech-translation/</guid><description>&lt;h2 id="real-time-translation-for-global-business-expansion">Real-Time Translation for Global Business Expansion&lt;/h2>
+&lt;p>A major maternal healthcare provider adopted &lt;strong>HeartSync&lt;/strong> to enhance their remote care model. By leveraging the wearable ECG technology, they were able to reduce the frequency of in-hospital visits for expectant mothers by 30%. The real-time monitoring allowed for faster identification of fetal heart irregularities, leading to a 20% decrease in emergency complications. Healthcare professionals reported that the integration of real-time monitoring significantly improved patient satisfaction and the overall quality of care.&lt;/p></description></item><item><title>SpeakSync｜Real-Time Speech Translation</title><link>https://www.insightbotics.com/features/real-time-speech-translation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/features/real-time-speech-translation/</guid><description>&lt;center>
+ &lt;img src="https://www.insightbotics.com/images/feature_1_whisper_demo.png" alt="SpeakSync Technology Overview">
+ &lt;p>&lt;em>Our advanced translation pipeline architecture&lt;/em>&lt;/p>
+&lt;/center>
+&lt;h2 id="real-time-translation-for-global-business-expansion">Real-Time Translation for Global Business Expansion&lt;/h2>
 &lt;p>&lt;strong>SpeakSync&lt;/strong> is designed to help businesses overcome the language barrier, enabling real-time conversations with partners, clients, and teams worldwide. With our cutting-edge speech-to-text and translation technology powered by &lt;strong>Whisper&lt;/strong> and &lt;strong>Hugging Face&lt;/strong>, we ensure that your message is heard and understood instantly—no matter the language.&lt;/p>
 &lt;h3 id="key-technology-stack">Key Technology Stack&lt;/h3>
 &lt;ul>
@@ -46,9 +50,14 @@
 &lt;li>&lt;strong>GPU Acceleration with TensorRT&lt;/strong>: By utilizing &lt;strong>NVIDIA TensorRT&lt;/strong> for GPU-optimized inference, SpeakSync ensures real-time translation with low latency, perfect for live meetings or interactive customer service applications.&lt;/li>
 &lt;li>&lt;strong>FastAPI Backend&lt;/strong>: The entire service is powered by &lt;strong>FastAPI&lt;/strong>, providing fast and scalable API endpoints that allow seamless integration into your existing systems.&lt;/li>
 &lt;/ul>
-&lt;center>
- &lt;img src="https://www.insightbotics.com/images/feature-1.svg" alt="SpeakSync Technology Overview">
- &lt;p>&lt;em>Our advanced translation pipeline architecture&lt;/em>&lt;/p></description></item><item><title>StudySync｜Fast Learning</title><link>https://www.insightbotics.com/features/fast-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/features/fast-learning/</guid><description>&lt;h2 id="fast-learning-for-the-modern-age">Fast Learning for the Modern Age&lt;/h2>
+&lt;h3 id="real-world-applications">Real-World Applications&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Global Teams&lt;/strong>: Facilitate smooth communication across teams in different countries. Whether you&amp;rsquo;re hosting a video conference or collaborating on documents, SpeakSync ensures everyone is on the same page.&lt;/li>
+&lt;li>&lt;strong>Customer Support&lt;/strong>: Provide multilingual customer support by instantly translating customer inquiries and support tickets. With SpeakSync, customer service teams can instantly reply to clients in their native language.&lt;/li>
+&lt;li>&lt;strong>Market Expansion&lt;/strong>: Enter new markets with confidence. SpeakSync allows businesses to interact with customers in multiple languages, making market entry seamless and cost-effective.&lt;/li>
+&lt;/ul>
+&lt;h3 id="customer-success-story">Customer Success Story&lt;/h3>
+&lt;p>One of our clients, a global e-commerce company, integrated SpeakSync into their customer support platform. The result? A 30% increase in customer satisfaction and a 25% reduction in response times. With SpeakSync, their support agents were able to handle inquiries in 5 languages, providing timely and accurate responses to customers from around the world.&lt;/p></description></item><item><title>StudySync｜Fast Learning</title><link>https://www.insightbotics.com/features/fast-learning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/features/fast-learning/</guid><description>&lt;h2 id="fast-learning-for-the-modern-age">Fast Learning for the Modern Age&lt;/h2>
 &lt;p>&lt;strong>StudySync&lt;/strong> revolutionizes the way we learn by combining cutting-edge AI technology with personalized learning paths. Whether you&amp;rsquo;re a student tackling complex subjects or a professional striving for continuous growth, StudySync provides a tailored, high-efficiency learning experience that maximizes time and effort.&lt;/p>
 &lt;h3 id="key-technology-stack">Key Technology Stack&lt;/h3>
 &lt;ul>

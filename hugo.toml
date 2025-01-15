@@ -32,7 +32,8 @@ enableGitInfo = false
   description = "Your site description"
   author = "Your Name"
   logo = "/images/logo.svg"
-  googleAnalytics = "G-XXXXXXXXXX"
+  googleAnalytics = "G-ZH8J65MS8W"
+
 
   [params.header]
     background = "bg-white/80 backdrop-blur-sm"

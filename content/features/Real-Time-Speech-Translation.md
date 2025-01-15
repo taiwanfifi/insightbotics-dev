@@ -18,6 +18,12 @@ demo:
   image: "/images/feature-1.svg"
 ---
 
+<center>
+    <img src="/images/feature_1_whisper_demo.png" alt="SpeakSync Technology Overview">
+    <p><em>Our advanced translation pipeline architecture</em></p>
+</center>
+
+
 ## Real-Time Translation for Global Business Expansion
 
 **SpeakSync** is designed to help businesses overcome the language barrier, enabling real-time conversations with partners, clients, and teams worldwide. With our cutting-edge speech-to-text and translation technology powered by **Whisper** and **Hugging Face**, we ensure that your message is heard and understood instantly—no matter the language.
@@ -28,11 +34,6 @@ demo:
 - **Hugging Face Translation Models**: We use pre-trained translation models on Hugging Face’s platform, which are optimized for multi-language support, allowing for accurate and context-aware translations.
 - **GPU Acceleration with TensorRT**: By utilizing **NVIDIA TensorRT** for GPU-optimized inference, SpeakSync ensures real-time translation with low latency, perfect for live meetings or interactive customer service applications.
 - **FastAPI Backend**: The entire service is powered by **FastAPI**, providing fast and scalable API endpoints that allow seamless integration into your existing systems.
-
-<center>
-    <img src="/images/feature-1.svg" alt="SpeakSync Technology Overview">
-    <p><em>Our advanced translation pipeline architecture</em></p>
-</center>
 
 ### Real-World Applications
 
