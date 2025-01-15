@@ -19,7 +19,7 @@
 &lt;/ul>
 &lt;h2 id="nice-to-have">Nice to Have&lt;/h2>
 &lt;ul>
-&lt;li>MBA or relevant advanced degree&lt;/li>
+&lt;li>CS or relevant advanced degree&lt;/li>
 &lt;li>Experience with B2B SaaS products&lt;/li>
 &lt;li>Background in UX design or software development&lt;/li>
 &lt;li>Experience with product analytics tools&lt;/li>
@@ -29,40 +29,46 @@
 &lt;ul>
 &lt;li>Competitive salary and equity package&lt;/li>
 &lt;li>Comprehensive health, dental, and vision insurance&lt;/li>
-&lt;li>401(k) matching&lt;/li>
-&lt;li>Flexible PTO policy&lt;/li>
 &lt;li>Professional development budget&lt;/li>
 &lt;li>Wellness programs&lt;/li>
 &lt;li>Company-sponsored events&lt;/li>
 &lt;li>Office perks and snacks&lt;/li>
 &lt;/ul>
 &lt;h2 id="how-to-apply">How to Apply&lt;/h2>
-&lt;p>Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p></description></item><item><title>Senior Frontend Developer</title><link>https://www.insightbotics.com/jobs/senior-frontend-developer/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/jobs/senior-frontend-developer/</guid><description>&lt;p>We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&lt;/p>
+&lt;p>Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team. Include examples of products you&amp;rsquo;ve managed and their impact.&lt;/p></description></item><item><title>Senior AI Developer</title><link>https://www.insightbotics.com/jobs/senior-frontend-developer/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.insightbotics.com/jobs/senior-frontend-developer/</guid><description>&lt;p>We&amp;rsquo;re looking for an AI LLM Engineer to join our growing team and help shape the future of our AI service.&lt;/p>
 &lt;h2 id="about-the-role">About the Role&lt;/h2>
-&lt;p>As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&lt;/p>
+&lt;p>As a AI LLM Engineer, you&amp;rsquo;ll be responsible for:&lt;/p>
 &lt;ul>
-&lt;li>Building and maintaining high-quality, reusable UI components&lt;/li>
-&lt;li>Collaborating with designers to implement pixel-perfect interfaces&lt;/li>
-&lt;li>Optimizing application performance and accessibility&lt;/li>
-&lt;li>Mentoring junior developers and reviewing code&lt;/li>
-&lt;li>Contributing to technical architecture decisions&lt;/li>
+&lt;li>Collaborating with cross-functional software and hardware teams to innovate customer-centric applications.&lt;/li>
+&lt;li>Working with diverse data types: textual, unstructured, tabular, and multimodal data.&lt;/li>
+&lt;li>Developing and optimizing deep learning algorithms for multilingual large language models (LLMs).&lt;/li>
+&lt;li>Implementing and deploying LLM applications for vision-language multimodality.&lt;/li>
+&lt;li>Contributing to the development of machine learning pipelines and model training at scale.&lt;/li>
+&lt;li>Mentoring junior developers and reviewing code.&lt;/li>
+&lt;li>Contributing to technical architecture decisions, especially regarding model training, inference, and deployment.&lt;/li>
 &lt;/ul>
 &lt;h2 id="requirements">Requirements&lt;/h2>
 &lt;ul>
-&lt;li>5+ years of experience in frontend development&lt;/li>
-&lt;li>Expert knowledge of modern JavaScript, HTML, and CSS&lt;/li>
-&lt;li>Strong experience with React or Vue.js&lt;/li>
-&lt;li>Understanding of modern frontend build tools and workflows&lt;/li>
-&lt;li>Experience with responsive design and cross-browser compatibility&lt;/li>
-&lt;li>Strong communication skills and ability to work in a remote team&lt;/li>
+&lt;li>Bachelor&amp;rsquo;s or higher degree in Computer Science, Electrical Engineering, Applied Mathematics, Physics, or Statistics.&lt;/li>
+&lt;li>5+ years of industry experience, including 3+ years in one or more of the following:
+&lt;ul>
+&lt;li>Deep learning algorithm development.&lt;/li>
+&lt;li>Compiler or software-hardware co-design.&lt;/li>
+&lt;li>Proficiency in Python or C++, with a solid foundation in data structures, algorithms, and machine learning.&lt;/li>
+&lt;li>Proficiency in one or more of the popular ML frameworks (PyTorch, TensorFlow, JAX).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Real-world experience in multilingual LLM applications training and inference.&lt;/li>
+&lt;li>Experience in vision-language multimodality and LLM productization.&lt;/li>
+&lt;li>Experience with model training, inference at scale, synthetic data, information retrieval, machine reading comprehension, RLHF/RLAIF, question answering, and Copilot development.&lt;/li>
 &lt;/ul>
 &lt;h2 id="nice-to-have">Nice to Have&lt;/h2>
 &lt;ul>
-&lt;li>Experience with TypeScript&lt;/li>
-&lt;li>Knowledge of testing frameworks (Jest, Cypress)&lt;/li>
-&lt;li>Contributions to open source projects&lt;/li>
-&lt;li>Experience with design systems&lt;/li>
-&lt;li>Understanding of backend technologies&lt;/li>
+&lt;li>Experience with DeepSeed, Megatron, vLLM, and TensorRT.&lt;/li>
+&lt;li>CUDA/OpenCL programming skills, with experience in CUDNN, and CUDA math libraries (CuBLAS, CuFFT, etc.).&lt;/li>
+&lt;li>First author in CS/ML publications.&lt;/li>
+&lt;li>Contributions to open source projects.&lt;/li>
+&lt;li>Familiarity with backend technologies.&lt;/li>
 &lt;/ul>
 &lt;h2 id="benefits">Benefits&lt;/h2>
 &lt;ul>

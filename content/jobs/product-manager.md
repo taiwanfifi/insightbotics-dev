@@ -2,9 +2,9 @@
 title: "Product Manager"
 date: 2023-11-14
 description: "We're seeking a Product Manager to drive our product strategy and roadmap"
-location: "San Francisco, CA (Hybrid)"
-type: "Full-time"
-salary: "$130K - $180K"
+location: "Taipei, Taiwan (Hybrid)"
+type: "Part-time"
+salary: "Negotiate"
 layout: "job-single"
 ---
 
@@ -31,7 +31,7 @@ As a Product Manager, you'll be responsible for:
 
 ## Nice to Have
 
-- MBA or relevant advanced degree
+- CS or relevant advanced degree
 - Experience with B2B SaaS products
 - Background in UX design or software development
 - Experience with product analytics tools
@@ -41,8 +41,6 @@ As a Product Manager, you'll be responsible for:
 
 - Competitive salary and equity package
 - Comprehensive health, dental, and vision insurance
-- 401(k) matching
-- Flexible PTO policy
 - Professional development budget
 - Wellness programs
 - Company-sponsored events
@@ -52,4 +50,4 @@ As a Product Manager, you'll be responsible for:
 
 Please send your resume and a cover letter detailing your product management experience and why you're interested in joining our team. Include examples of products you've managed and their impact.
 
-[Apply Now](mailto:careers@example.com)
+[Apply Now](mailto:info@insightbotics.com)

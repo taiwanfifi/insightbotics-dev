@@ -43,8 +43,8 @@ enableGitInfo = false
 
     [params.header.buttons]
       [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "https://movie-learner.vercel.app/"
+        text = "Linkedin"
+        url = "https://www.linkedin.com/company/insightbotics"
       [params.header.buttons.getStarted]
         text = "Get Started"
         url = "https://movie-learner.vercel.app/"
@@ -54,10 +54,10 @@ enableGitInfo = false
     title = "Ready to Get Started?"
     description = "Join companies using our platform"
     [params.cta.primary_button]
-      text = "Get Started Free"
-      url = "https://movie-learner.vercel.app/"
+      text = "Start Translation"
+      url = "https://www.insightbotics.com"
     [params.cta.secondary_button]
-      text = "Book Demo"
+      text = "Start Learning"
       url = "https://movie-learner.vercel.app/"
 
   [params.social]
@@ -72,9 +72,10 @@ enableGitInfo = false
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "SpeakSync｜Instant Translation", url = "/features/Real-Time-Speech-Translation/" },
+        { name = "StudySync｜Fast Learning", url = "/features/Fast-Learning/" },
+        { name = "DataSync｜AI Business Analytics", url = "/features/AI-Business-Analytics/" },
+        { name = "HeartSync｜Wearable FetalECG", url = "/features/Wearable-FetalECG/" }
       ]
   [[menu.main]]
     name = "Pricing"

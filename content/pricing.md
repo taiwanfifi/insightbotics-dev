@@ -7,7 +7,7 @@ layout: "pricing"
 {{< pricing-table-1 >}}
 {
     "title": "Designed for business teams like yours",
-    "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
+    "description": "Here at Insightbotics we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
     "plans": [
         {
             "name": "Starter",
