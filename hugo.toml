@@ -44,10 +44,10 @@ enableGitInfo = false
     [params.header.buttons]
       [params.header.buttons.signIn]
         text = "Sign in"
-        url = "/signin"
+        url = "https://movie-learner.vercel.app/"
       [params.header.buttons.getStarted]
         text = "Get Started"
-        url = "/get-started"
+        url = "https://movie-learner.vercel.app/"
 
   [params.cta]
     enable = true
@@ -55,15 +55,15 @@ enableGitInfo = false
     description = "Join companies using our platform"
     [params.cta.primary_button]
       text = "Get Started Free"
-      url = "/get-started"
+      url = "https://movie-learner.vercel.app/"
     [params.cta.secondary_button]
       text = "Book Demo"
-      url = "/demo"
+      url = "https://movie-learner.vercel.app/"
 
   [params.social]
     linkedin = "https://www.linkedin.com/company/insightbotics"
-    twitter = "https://twitter.com/yourusername"
-    github = "https://github.com/yourusername"
+    twitter = "https://x.com/insightbotics"
+    github = "https://github.com/insightbotics"
 
 [menu]
   [[menu.main]]
