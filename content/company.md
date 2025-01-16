@@ -24,19 +24,19 @@ description: "Learn about our mission, leadership team, and the cutting-edge AI 
             {{< team-member 
                 name="William"
                 title="PhD Student, NTUEE | Software Engineer"
-                image="/images/company/exec-1.svg"
+                image="/images/company/exec-4.svg"
                 linkedin="https://www.linkedin.com/in/taiwanfifi/"
             >}}
             {{< team-member 
                 name="She Lin"
                 title="BSc, Computer Science, NCCU | Full-Stack Engineer"
-                image="/images/company/exec-2.svg"
+                image="/images/company/exec-5.svg"
                 linkedin="#"
             >}}
             {{< team-member 
                 name="WEI AN"
                 title="MSc, Biomedical Engineering, NCKU | AI LLM Engineer"
-                image="/images/company/exec-3.svg"
+                image="/images/company/exec-6.svg"
                 linkedin="https://www.linkedin.com/in/weianhou/"
             >}}
         </div>
